@@ -1,3 +1,4 @@
+![logo](https://github.com/designer-haxxan/designer-haxxan/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm designer haxxan</h1>
 <h3 align="center">🔥 I do any kind of software development with .NET technology. Mostly I work with C#</h3>
                        <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding image" align="right" width="400">
